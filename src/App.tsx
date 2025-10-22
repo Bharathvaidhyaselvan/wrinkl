@@ -9,7 +9,7 @@ import AdminDashboardPage from './pages/AdminDashboardPage';
 import LoginPage from './pages/LoginPage';
 import NotFoundPage from './pages/NotFoundPage';
 import PrivateRoute from './components/PrivateRoute';
-import Privacy from './pages/Privacy';
+import Privacy from './pages/privacy';
 
 function App() {
   return (
